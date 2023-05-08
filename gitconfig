@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cedxx1412@gmail.com
+	name = cedric najdek
